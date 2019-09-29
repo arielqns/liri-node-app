@@ -1431,3 +1431,293 @@ preview song: https://p.scdn.co/mp3-preview/f11f8a6aa363853f65475a00f911674568a8
 album: Ov Apocalypse Incarnate
 artist(s): Applaud the Impaler
 -----------------------------
+----------------SONG INFO----------
+0
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8fff05141da041d99b899b852a544fc5
+album: The Hits--Chapter One
+-----------------------------
+----------------SONG INFO----------
+1
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8fff05141da041d99b899b852a544fc5
+album: Millennium
+-----------------------------
+----------------SONG INFO----------
+2
+artist(s): Mick Jensen
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+-----------------------------
+----------------SONG INFO----------
+3
+artist(s): Anthem Lights
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8fff05141da041d99b899b852a544fc5
+album: Covers Part IV
+-----------------------------
+----------------SONG INFO----------
+4
+artist(s): Backstreet Boys
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way (Reimagined)
+-----------------------------
+----------------SONG INFO----------
+5
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8fff05141da041d99b899b852a544fc5
+album: Poodle Hat
+-----------------------------
+----------------SONG INFO----------
+6
+artist(s): Dynamite Boy
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+-----------------------------
+----------------SONG INFO----------
+7
+artist(s): Jess and Gabriel
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8fff05141da041d99b899b852a544fc5
+album: Under the Covers, Vol. 3
+-----------------------------
+----------------SONG INFO----------
+8
+artist(s): Tyler and Mark
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8fff05141da041d99b899b852a544fc5
+album: Beautiful Dreams
+-----------------------------
+----------------SONG INFO----------
+9
+artist(s): Steel Panther
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+-----------------------------
+----------------SONG INFO----------
+10
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8fff05141da041d99b899b852a544fc5
+album: 90 Sweet 90s Hits!
+-----------------------------
+----------------SONG INFO----------
+11
+artist(s): Glee Cast
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8fff05141da041d99b899b852a544fc5
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+-----------------------------
+----------------SONG INFO----------
+12
+artist(s): Nineties Legends
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=8fff05141da041d99b899b852a544fc5
+album: Musicbox
+-----------------------------
+----------------SONG INFO----------
+13
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8fff05141da041d99b899b852a544fc5
+album: NKOTBSB
+-----------------------------
+----------------SONG INFO----------
+14
+artist(s): Scary Pockets
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8fff05141da041d99b899b852a544fc5
+album: Nu Funk
+-----------------------------
+----------------SONG INFO----------
+15
+artist(s): Boyce Avenue
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8fff05141da041d99b899b852a544fc5
+album: Cover Sessions, Vol. 2
+-----------------------------
+----------------SONG INFO----------
+16
+artist(s): CaryLamb
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=8fff05141da041d99b899b852a544fc5
+album: Boulevard You
+-----------------------------
+----------------SONG INFO----------
+17
+artist(s): Scott Bradlee's Postmodern Jukebox
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8fff05141da041d99b899b852a544fc5
+album: Selfies on Kodachrome
+-----------------------------
+----------------SONG INFO----------
+18
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8fff05141da041d99b899b852a544fc5
+album: The Essential "Weird Al" Yankovic
+-----------------------------
+----------------SONG INFO----------
+19
+artist(s): Yshop
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+-----------------------------
+----------------SONG INFO----------
+0
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8fff05141da041d99b899b852a544fc5
+album: The Hits--Chapter One
+----------------SONG INFO----------
+1
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8fff05141da041d99b899b852a544fc5
+album: Millennium
+----------------SONG INFO----------
+2
+artist(s): Mick Jensen
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+----------------SONG INFO----------
+3
+artist(s): Anthem Lights
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8fff05141da041d99b899b852a544fc5
+album: Covers Part IV
+----------------SONG INFO----------
+4
+artist(s): Backstreet Boys
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way (Reimagined)
+----------------SONG INFO----------
+5
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8fff05141da041d99b899b852a544fc5
+album: Poodle Hat
+----------------SONG INFO----------
+6
+artist(s): Dynamite Boy
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+----------------SONG INFO----------
+7
+artist(s): Jess and Gabriel
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8fff05141da041d99b899b852a544fc5
+album: Under the Covers, Vol. 3
+----------------SONG INFO----------
+8
+artist(s): Tyler and Mark
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8fff05141da041d99b899b852a544fc5
+album: Beautiful Dreams
+----------------SONG INFO----------
+9
+artist(s): Steel Panther
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+----------------SONG INFO----------
+10
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8fff05141da041d99b899b852a544fc5
+album: 90 Sweet 90s Hits!
+----------------SONG INFO----------
+11
+artist(s): Glee Cast
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8fff05141da041d99b899b852a544fc5
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------SONG INFO----------
+12
+artist(s): Nineties Legends
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=8fff05141da041d99b899b852a544fc5
+album: Musicbox
+----------------SONG INFO----------
+13
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8fff05141da041d99b899b852a544fc5
+album: NKOTBSB
+----------------SONG INFO----------
+14
+artist(s): Scary Pockets
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8fff05141da041d99b899b852a544fc5
+album: Nu Funk
+----------------SONG INFO----------
+15
+artist(s): Boyce Avenue
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8fff05141da041d99b899b852a544fc5
+album: Cover Sessions, Vol. 2
+----------------SONG INFO----------
+16
+artist(s): CaryLamb
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=8fff05141da041d99b899b852a544fc5
+album: Boulevard You
+----------------SONG INFO----------
+17
+artist(s): Scott Bradlee's Postmodern Jukebox
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8fff05141da041d99b899b852a544fc5
+album: Selfies on Kodachrome
+----------------SONG INFO----------
+18
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8fff05141da041d99b899b852a544fc5
+album: The Essential "Weird Al" Yankovic
+----------------SONG INFO----------
+19
+artist(s): Yshop
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+------------MOVIE  INFO-------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+------------MOVIE  INFO-------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+------------MOVIE  INFO-------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+------------MOVIE  INFO-------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+------------MOVIE  INFO-------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
