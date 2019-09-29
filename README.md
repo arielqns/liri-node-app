@@ -4,7 +4,7 @@ liri-node-app
 
 # Link
 Deployment Link https://arielqns.github.io/liri-node-app/
-GitHub Resipository Link: https://github.com/jahdasha/liri-node-app
+GitHub Resipository Link: https://github.com/arielqns/liri-node-app
 Link to video: https://drive.google.com/file/d/13UJ7KfphId25lVUqwa15ah2jnVtxNwNj/view
 
 # Created by
