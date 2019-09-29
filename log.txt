@@ -1,0 +1,1433 @@
+----------------SONG INFO----------
+0
+song name: Summertime Magic
+preview song: https://p.scdn.co/mp3-preview/54b992f72944542c137df6bbb1080f6f76c9df67?cid=8fff05141da041d99b899b852a544fc5
+album: Summer Pack
+artist(s): Childish Gambino
+-----------------------------
+----------------SONG INFO----------
+1
+song name: Summertime In Paris
+preview song: null
+album: ERYS (Deluxe)
+artist(s): Jaden
+-----------------------------
+----------------SONG INFO----------
+2
+song name: Summertime Sadness
+preview song: null
+album: Born To Die - The Paradise Edition
+artist(s): Lana Del Rey
+-----------------------------
+----------------SONG INFO----------
+3
+song name: Norf Norf
+preview song: null
+album: Summertime '06
+artist(s): Vince Staples
+-----------------------------
+----------------SONG INFO----------
+4
+song name: Summertime Sadness
+preview song: null
+album: Born To Die (Bonus Track Version)
+artist(s): Lana Del Rey
+-----------------------------
+----------------SONG INFO----------
+5
+song name: Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix / Radio Edit
+preview song: null
+album: Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)
+artist(s): Lana Del Rey
+-----------------------------
+----------------SONG INFO----------
+6
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/5ccf82437961f7f4def3ae3322fc1501226f36a3?cid=8fff05141da041d99b899b852a544fc5
+album: Homebase
+artist(s): DJ Jazzy Jeff & The Fresh Prince
+-----------------------------
+----------------SONG INFO----------
+7
+song name: In the Summertime
+preview song: https://p.scdn.co/mp3-preview/ea8c3f26e654c14d732263d1503554863abc1ef6?cid=8fff05141da041d99b899b852a544fc5
+album: In the Summertime
+artist(s): Mungo Jerry
+-----------------------------
+----------------SONG INFO----------
+8
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/821a56bbf9010ab683b1e69e8faf6795c8ee56bd?cid=8fff05141da041d99b899b852a544fc5
+album: The Road And The Radio
+artist(s): Kenny Chesney
+-----------------------------
+----------------SONG INFO----------
+9
+song name: Summertime
+preview song: null
+album: Porgy And Bess
+artist(s): Louis Armstrong
+-----------------------------
+----------------SONG INFO----------
+10
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/7ad6353a1b61457b2c45a1b30dde67826a7857f8?cid=8fff05141da041d99b899b852a544fc5
+album: Greatest Hits II
+artist(s): Kenny Chesney
+-----------------------------
+----------------SONG INFO----------
+11
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/2a76802af26c069b42f4ba7377ee254c33022fb4?cid=8fff05141da041d99b899b852a544fc5
+album: Summertime
+artist(s): Musqitone
+-----------------------------
+----------------SONG INFO----------
+12
+song name: A Little More Summertime
+preview song: https://p.scdn.co/mp3-preview/b46ac4a1ad5f416475a500043ddd3bb2270728f7?cid=8fff05141da041d99b899b852a544fc5
+album: They Don't Know
+artist(s): Jason Aldean
+-----------------------------
+----------------SONG INFO----------
+13
+song name: Summertime In Paris
+preview song: null
+album: ERYS
+artist(s): Jaden
+-----------------------------
+----------------SONG INFO----------
+14
+song name: Summertime (feat. Citizen Cope)
+preview song: https://p.scdn.co/mp3-preview/a07035301e3f13bcfce0b171fd5592f2a380df4a?cid=8fff05141da041d99b899b852a544fc5
+album: World on Fire
+artist(s): Stick Figure
+-----------------------------
+----------------SONG INFO----------
+15
+song name: Summertime Blues
+preview song: null
+album: 12 Of His Biggest Hits
+artist(s): Eddie Cochran
+-----------------------------
+----------------SONG INFO----------
+16
+song name: Summertime Blues
+preview song: https://p.scdn.co/mp3-preview/36fa36b36392202f52cc36f363bf453e1f58af2d?cid=8fff05141da041d99b899b852a544fc5
+album: 16 Biggest Hits
+artist(s): Alan Jackson
+-----------------------------
+----------------SONG INFO----------
+17
+song name: The Wreck of the Edmund Fitzgerald
+preview song: https://p.scdn.co/mp3-preview/0ba5642161214b5a4e936b649bc7fd695ad9727f?cid=8fff05141da041d99b899b852a544fc5
+album: Summertime Dream
+artist(s): Gordon Lightfoot
+-----------------------------
+----------------SONG INFO----------
+18
+song name: Summertime Gladness
+preview song: https://p.scdn.co/mp3-preview/aa0020fb8006367434b08ecda0a2366f0aca06bf?cid=8fff05141da041d99b899b852a544fc5
+album: Summertime Gladness
+artist(s): Dance Gavin Dance
+-----------------------------
+----------------SONG INFO----------
+19
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/e1a7e597377c8dd4171d70fb4cb384ff41661fc4?cid=8fff05141da041d99b899b852a544fc5
+album: Summertime
+artist(s): Becca VanDerbeck
+-----------------------------
+----------------SONG INFO----------
+0
+song name: Por Dinero
+preview song: https://p.scdn.co/mp3-preview/e367958902bcea5170ed32a902d2bc8c888b8b5e?cid=8fff05141da041d99b899b852a544fc5
+album: A Dúo Con Amigos
+artist(s): Dany Lescano y Su Flor de Piedra
+-----------------------------
+------------EVENT INFO-------------
+0
+Name of the Venue: Mt Smart Stadium
+Venue Location: Auckland
+Date of the Event: 2019-11-08T19:00:00
+-------------------------
+------------EVENT INFO-------------
+1
+Name of the Venue: Mt Smart Stadium
+Venue Location: Auckland
+Date of the Event: 2019-11-09T19:00:00
+-------------------------
+------------EVENT INFO-------------
+2
+Name of the Venue: Marvel Stadium
+Venue Location: Docklands
+Date of the Event: 2019-11-15T19:00:00
+-------------------------
+------------EVENT INFO-------------
+3
+Name of the Venue: Optus Stadium
+Venue Location: Burswood
+Date of the Event: 2019-11-27T19:00:00
+-------------------------
+------------EVENT INFO-------------
+4
+Name of the Venue: National Stadium, Singapore Sports Hub
+Venue Location: Singapore
+Date of the Event: 2019-11-30T19:00:00
+-------------------------
+------------EVENT INFO-------------
+5
+Name of the Venue: D.Y. Patil Stadium
+Venue Location: Mumbai
+Date of the Event: 2019-12-15T16:00:00
+-------------------------
+------------EVENT INFO-------------
+0
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-26T20:30:00
+-------------------------
+------------EVENT INFO-------------
+1
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-28T20:30:00
+-------------------------
+------------EVENT INFO-------------
+2
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+3
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+4
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-03T20:30:00
+-------------------------
+------------EVENT INFO-------------
+5
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-05T20:30:00
+-------------------------
+------------EVENT INFO-------------
+6
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-06T20:30:00
+-------------------------
+------------EVENT INFO-------------
+7
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+8
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+9
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+10
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+11
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-16T20:30:00
+-------------------------
+------------EVENT INFO-------------
+12
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+13
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+14
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-23T20:30:00
+-------------------------
+------------EVENT INFO-------------
+15
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-24T20:30:00
+-------------------------
+------------EVENT INFO-------------
+16
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+17
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-10-31T20:30:00
+-------------------------
+------------EVENT INFO-------------
+18
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-11-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+19
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-11-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+20
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+21
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+22
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+23
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+24
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+25
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-14T20:30:00
+-------------------------
+------------EVENT INFO-------------
+26
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-16T20:30:00
+-------------------------
+------------EVENT INFO-------------
+27
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+28
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-19T20:30:00
+-------------------------
+------------EVENT INFO-------------
+29
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:30:00
+-------------------------
+------------EVENT INFO-------------
+30
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+31
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:30:00
+-------------------------
+------------EVENT INFO-------------
+32
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:30:00
+-------------------------
+------------EVENT INFO-------------
+33
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-25T20:30:00
+-------------------------
+------------EVENT INFO-------------
+34
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-11-30T20:30:00
+-------------------------
+------------EVENT INFO-------------
+35
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+36
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+37
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+38
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-08T20:30:00
+-------------------------
+------------EVENT INFO-------------
+39
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+40
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-11T20:30:00
+-------------------------
+------------EVENT INFO-------------
+41
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-14T20:30:00
+-------------------------
+------------EVENT INFO-------------
+42
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+43
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+44
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-18T20:30:00
+-------------------------
+------------EVENT INFO-------------
+45
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-19T20:30:00
+-------------------------
+------------EVENT INFO-------------
+46
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+47
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-22T20:30:00
+-------------------------
+------------EVENT INFO-------------
+48
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-12T21:30:00
+-------------------------
+------------EVENT INFO-------------
+49
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-16T21:30:00
+-------------------------
+------------EVENT INFO-------------
+50
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-26T20:30:00
+-------------------------
+------------EVENT INFO-------------
+51
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+52
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-29T19:00:00
+-------------------------
+------------EVENT INFO-------------
+53
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-30T20:30:00
+-------------------------
+------------EVENT INFO-------------
+54
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+55
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+56
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+57
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-05T20:30:00
+-------------------------
+------------EVENT INFO-------------
+58
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-06T20:30:00
+-------------------------
+------------EVENT INFO-------------
+59
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-08T20:30:00
+-------------------------
+------------EVENT INFO-------------
+60
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+61
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-11T20:30:00
+-------------------------
+------------EVENT INFO-------------
+62
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+63
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+64
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+65
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-18T20:00:00
+-------------------------
+------------EVENT INFO-------------
+66
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-19T20:00:00
+-------------------------
+------------EVENT INFO-------------
+67
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-20T20:00:00
+-------------------------
+------------EVENT INFO-------------
+68
+Name of the Venue: GRAND REX
+Venue Location: Paris
+Date of the Event: 2020-02-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+69
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-22T20:00:00
+-------------------------
+------------EVENT INFO-------------
+70
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-23T20:00:00
+-------------------------
+------------EVENT INFO-------------
+71
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-25T20:30:00
+-------------------------
+------------EVENT INFO-------------
+72
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-26T20:30:00
+-------------------------
+------------EVENT INFO-------------
+73
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+74
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-29T20:30:00
+-------------------------
+------------EVENT INFO-------------
+75
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+76
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-03T20:30:00
+-------------------------
+------------EVENT INFO-------------
+77
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+78
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+79
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-08T20:30:00
+-------------------------
+------------EVENT INFO-------------
+0
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-09-29T19:30:00
+-------------------------
+------------EVENT INFO-------------
+1
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+-------------------------
+------------EVENT INFO-------------
+2
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-04T20:00:00
+-------------------------
+------------EVENT INFO-------------
+3
+Name of the Venue: CAA Centre (Formerly Powerade Centre)
+Venue Location: Brampton
+Date of the Event: 2019-10-06T19:00:00
+-------------------------
+------------EVENT INFO-------------
+4
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-10-10T20:00:00
+-------------------------
+------------EVENT INFO-------------
+5
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-11T20:00:00
+-------------------------
+------------EVENT INFO-------------
+6
+Name of the Venue: EagleBank Arena
+Venue Location: Fairfax
+Date of the Event: 2019-10-13T19:00:00
+-------------------------
+------------EVENT INFO-------------
+7
+Name of the Venue: Allstate Arena
+Venue Location: Rosemont
+Date of the Event: 2019-10-18T20:00:00
+-------------------------
+------------EVENT INFO-------------
+8
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-10-20T19:30:00
+-------------------------
+------------EVENT INFO-------------
+9
+Name of the Venue: Coliseo de Puerto Rico
+Venue Location: San Juan
+Date of the Event: 2019-11-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+10
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-12-05T21:00:00
+-------------------------
+------------EVENT INFO-------------
+11
+Name of the Venue: Auditorio Telmex
+Venue Location: Zapopan
+Date of the Event: 2019-12-07T21:00:00
+-------------------------
+------------EVENT INFO-------------
+12
+Name of the Venue: Auditorio Nacional
+Venue Location: Ciudad De México
+Date of the Event: 2019-12-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+0
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-09-29T19:30:00
+-------------------------
+------------EVENT INFO-------------
+1
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+-------------------------
+------------EVENT INFO-------------
+2
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-04T20:00:00
+-------------------------
+------------EVENT INFO-------------
+3
+Name of the Venue: CAA Centre (Formerly Powerade Centre)
+Venue Location: Brampton
+Date of the Event: 2019-10-06T19:00:00
+-------------------------
+------------EVENT INFO-------------
+4
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-10-10T20:00:00
+-------------------------
+------------EVENT INFO-------------
+5
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-11T20:00:00
+-------------------------
+------------EVENT INFO-------------
+6
+Name of the Venue: EagleBank Arena
+Venue Location: Fairfax
+Date of the Event: 2019-10-13T19:00:00
+-------------------------
+------------EVENT INFO-------------
+7
+Name of the Venue: Allstate Arena
+Venue Location: Rosemont
+Date of the Event: 2019-10-18T20:00:00
+-------------------------
+------------EVENT INFO-------------
+8
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-10-20T19:30:00
+-------------------------
+------------EVENT INFO-------------
+9
+Name of the Venue: Coliseo de Puerto Rico
+Venue Location: San Juan
+Date of the Event: 2019-11-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+10
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-12-05T21:00:00
+-------------------------
+------------EVENT INFO-------------
+11
+Name of the Venue: Auditorio Telmex
+Venue Location: Zapopan
+Date of the Event: 2019-12-07T21:00:00
+-------------------------
+------------EVENT INFO-------------
+12
+Name of the Venue: Auditorio Nacional
+Venue Location: Ciudad De México
+Date of the Event: 2019-12-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+0
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-28T20:30:00
+-------------------------
+------------EVENT INFO-------------
+1
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+2
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+3
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-03T20:30:00
+-------------------------
+------------EVENT INFO-------------
+4
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-05T20:30:00
+-------------------------
+------------EVENT INFO-------------
+5
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-06T20:30:00
+-------------------------
+------------EVENT INFO-------------
+6
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+7
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+8
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+9
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+10
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-16T20:30:00
+-------------------------
+------------EVENT INFO-------------
+11
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+12
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+13
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-23T20:30:00
+-------------------------
+------------EVENT INFO-------------
+14
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-24T20:30:00
+-------------------------
+------------EVENT INFO-------------
+15
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+16
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-10-31T20:30:00
+-------------------------
+------------EVENT INFO-------------
+17
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-11-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+18
+Name of the Venue: Golden Gate Theater
+Venue Location: San Francisco
+Date of the Event: 2019-11-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+19
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+20
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+21
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+22
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+23
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+24
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-14T20:30:00
+-------------------------
+------------EVENT INFO-------------
+25
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-16T20:30:00
+-------------------------
+------------EVENT INFO-------------
+26
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+27
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-19T20:30:00
+-------------------------
+------------EVENT INFO-------------
+28
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:30:00
+-------------------------
+------------EVENT INFO-------------
+29
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+30
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:30:00
+-------------------------
+------------EVENT INFO-------------
+31
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:30:00
+-------------------------
+------------EVENT INFO-------------
+32
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-25T20:30:00
+-------------------------
+------------EVENT INFO-------------
+33
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-11-30T20:30:00
+-------------------------
+------------EVENT INFO-------------
+34
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+35
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+36
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+37
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-08T20:30:00
+-------------------------
+------------EVENT INFO-------------
+38
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-10T20:30:00
+-------------------------
+------------EVENT INFO-------------
+39
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-11T20:30:00
+-------------------------
+------------EVENT INFO-------------
+40
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-14T20:30:00
+-------------------------
+------------EVENT INFO-------------
+41
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+42
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-17T20:30:00
+-------------------------
+------------EVENT INFO-------------
+43
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-18T20:30:00
+-------------------------
+------------EVENT INFO-------------
+44
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-19T20:30:00
+-------------------------
+------------EVENT INFO-------------
+45
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+46
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-22T20:30:00
+-------------------------
+------------EVENT INFO-------------
+47
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-12T21:30:00
+-------------------------
+------------EVENT INFO-------------
+48
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-16T21:30:00
+-------------------------
+------------EVENT INFO-------------
+49
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-26T20:30:00
+-------------------------
+------------EVENT INFO-------------
+50
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+51
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-29T19:00:00
+-------------------------
+------------EVENT INFO-------------
+52
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-30T20:30:00
+-------------------------
+------------EVENT INFO-------------
+53
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+54
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-02T20:30:00
+-------------------------
+------------EVENT INFO-------------
+55
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+56
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-05T20:30:00
+-------------------------
+------------EVENT INFO-------------
+57
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-06T20:30:00
+-------------------------
+------------EVENT INFO-------------
+58
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-08T20:30:00
+-------------------------
+------------EVENT INFO-------------
+59
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-09T20:30:00
+-------------------------
+------------EVENT INFO-------------
+60
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-11T20:30:00
+-------------------------
+------------EVENT INFO-------------
+61
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-12T20:30:00
+-------------------------
+------------EVENT INFO-------------
+62
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-13T20:30:00
+-------------------------
+------------EVENT INFO-------------
+63
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-15T20:30:00
+-------------------------
+------------EVENT INFO-------------
+64
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-18T20:00:00
+-------------------------
+------------EVENT INFO-------------
+65
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-19T20:00:00
+-------------------------
+------------EVENT INFO-------------
+66
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-20T20:00:00
+-------------------------
+------------EVENT INFO-------------
+67
+Name of the Venue: GRAND REX
+Venue Location: Paris
+Date of the Event: 2020-02-21T20:30:00
+-------------------------
+------------EVENT INFO-------------
+68
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-22T20:00:00
+-------------------------
+------------EVENT INFO-------------
+69
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-23T20:00:00
+-------------------------
+------------EVENT INFO-------------
+70
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-25T20:30:00
+-------------------------
+------------EVENT INFO-------------
+71
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-26T20:30:00
+-------------------------
+------------EVENT INFO-------------
+72
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-27T20:30:00
+-------------------------
+------------EVENT INFO-------------
+73
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-29T20:30:00
+-------------------------
+------------EVENT INFO-------------
+74
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-01T20:30:00
+-------------------------
+------------EVENT INFO-------------
+75
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-03T20:30:00
+-------------------------
+------------EVENT INFO-------------
+76
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-04T20:30:00
+-------------------------
+------------EVENT INFO-------------
+77
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-07T20:30:00
+-------------------------
+------------EVENT INFO-------------
+78
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-08T20:30:00
+-------------------------
+----------------SONG INFO----------
+0
+song name: Applaud
+preview song: https://p.scdn.co/mp3-preview/534f7aaf59dde66bc04a74cd6cb0ac374a54155f?cid=8fff05141da041d99b899b852a544fc5
+album: Applaud
+artist(s): Yves Tumor
+-----------------------------
+----------------SONG INFO----------
+1
+song name: Television Applaud
+preview song: https://p.scdn.co/mp3-preview/14e215e0a220b6d59278266c45745380e33109e9?cid=8fff05141da041d99b899b852a544fc5
+album: Television Applaud
+artist(s): Ollie Martinez
+-----------------------------
+----------------SONG INFO----------
+2
+song name: Applaud
+preview song: https://p.scdn.co/mp3-preview/74e0c5fda87ae40371d8b1b08c1f295d3a724d9f?cid=8fff05141da041d99b899b852a544fc5
+album: Applaud
+artist(s): Eric Tucker
+-----------------------------
+----------------SONG INFO----------
+3
+song name: Alexander's Feast, HWV 75: The Princes Applaud With a Furious Joy (Aria – Tenor)
+preview song: https://p.scdn.co/mp3-preview/62db29ed2df87726c0aae392ad34652531704284?cid=8fff05141da041d99b899b852a544fc5
+album: Alexander's Feast
+artist(s): George Frideric Handel
+-----------------------------
+----------------SONG INFO----------
+4
+song name: Vestiges
+preview song: https://p.scdn.co/mp3-preview/f2fa006acd619584f72bec8f3b5be79172e2fe86?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+5
+song name: Trenchrot
+preview song: https://p.scdn.co/mp3-preview/9f79bca0e28d0e453e53f0d870892a3940a44c27?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+6
+song name: Fiends Applaud, the Gore Is Over
+preview song: https://p.scdn.co/mp3-preview/820b16a26b8ae92ac1b1b9c2ac571c973de0c4b8?cid=8fff05141da041d99b899b852a544fc5
+album: Slow Death By Grinding
+artist(s): The Day Everything Became Nothing
+-----------------------------
+----------------SONG INFO----------
+7
+song name: Enigmatic Infection
+preview song: https://p.scdn.co/mp3-preview/d4300fb1082ef27382a92ff4499f45d83d665319?cid=8fff05141da041d99b899b852a544fc5
+album: Enigmatic Infection
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+8
+song name: Applaud Water
+preview song: https://p.scdn.co/mp3-preview/0ac75957ccb1087c01a80aabd42e62ca1c0a904b?cid=8fff05141da041d99b899b852a544fc5
+album: The Vitreous Humor Ep
+artist(s): Vitreous Humor
+-----------------------------
+----------------SONG INFO----------
+9
+song name: Shampepe
+preview song: https://p.scdn.co/mp3-preview/0966995230e7b52e4d649cb8afc0bd380f6d88ed?cid=8fff05141da041d99b899b852a544fc5
+album: Applaud the Queen
+artist(s): Laud Reyes
+-----------------------------
+----------------SONG INFO----------
+10
+song name: Enigmatic Infection
+preview song: https://p.scdn.co/mp3-preview/d4300fb1082ef27382a92ff4499f45d83d665319?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+11
+song name: Acid Cloud
+preview song: https://p.scdn.co/mp3-preview/81746f65b1e8879eb8e5c4890b509bb1a813c37e?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+12
+song name: Jabba the Slutt
+preview song: https://p.scdn.co/mp3-preview/f7117bc1af8132b63107e13e7c3021d69f332691?cid=8fff05141da041d99b899b852a544fc5
+album: Anthropophagi
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+13
+song name: Abiogenesys
+preview song: https://p.scdn.co/mp3-preview/7f896d6ea69b6eeff4a46e08fa01bbff0dda9cdd?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+14
+song name: Andrenochrome
+preview song: https://p.scdn.co/mp3-preview/8d5b03732e0acc105488aec9ab7982dc2fee696e?cid=8fff05141da041d99b899b852a544fc5
+album: Anthropophagi
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+15
+song name: Malignant Nihilism
+preview song: https://p.scdn.co/mp3-preview/d2a3f7bf2750b2f89d255f75739abd5e9d3dad9e?cid=8fff05141da041d99b899b852a544fc5
+album: Anthropophagi
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+16
+song name: Making the World Applaud - Instrumental
+preview song: https://p.scdn.co/mp3-preview/9784b6b656ec9dbed4ff69c1764aa3dd1b5ce1c9?cid=8fff05141da041d99b899b852a544fc5
+album: From Street to Sweet (Instrumentals)
+artist(s): Funky DL
+-----------------------------
+----------------SONG INFO----------
+17
+song name: Nonstop
+preview song: https://p.scdn.co/mp3-preview/4488df034e6248a97c3225ae645b859f68fa0489?cid=8fff05141da041d99b899b852a544fc5
+album: Applaud the Queen
+artist(s): Laud Reyes
+-----------------------------
+----------------SONG INFO----------
+18
+song name: Angel Lust
+preview song: https://p.scdn.co/mp3-preview/7b95aee49435cf0838c7af07c428c821fa189840?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
+----------------SONG INFO----------
+19
+song name: Machines Of Malice
+preview song: https://p.scdn.co/mp3-preview/f11f8a6aa363853f65475a00f911674568a8d94e?cid=8fff05141da041d99b899b852a544fc5
+album: Ov Apocalypse Incarnate
+artist(s): Applaud the Impaler
+-----------------------------
