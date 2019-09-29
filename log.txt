@@ -1721,3 +1721,712 @@ Country of Production: USA
 Language: English, Swedish, Italian
 Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+------------EVENT INFO-------------
+0
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-09-29T19:30:00
+------------EVENT INFO-------------
+1
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+------------EVENT INFO-------------
+2
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-04T20:00:00
+------------EVENT INFO-------------
+3
+Name of the Venue: CAA Centre (Formerly Powerade Centre)
+Venue Location: Brampton
+Date of the Event: 2019-10-06T19:00:00
+------------EVENT INFO-------------
+4
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-10-10T20:00:00
+------------EVENT INFO-------------
+5
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-11T20:00:00
+------------EVENT INFO-------------
+6
+Name of the Venue: EagleBank Arena
+Venue Location: Fairfax
+Date of the Event: 2019-10-13T19:00:00
+------------EVENT INFO-------------
+7
+Name of the Venue: Allstate Arena
+Venue Location: Rosemont
+Date of the Event: 2019-10-18T20:00:00
+------------EVENT INFO-------------
+8
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-10-20T19:30:00
+------------EVENT INFO-------------
+9
+Name of the Venue: Coliseo de Puerto Rico
+Venue Location: San Juan
+Date of the Event: 2019-11-09T20:30:00
+------------EVENT INFO-------------
+10
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-12-05T21:00:00
+------------EVENT INFO-------------
+11
+Name of the Venue: Auditorio Telmex
+Venue Location: Zapopan
+Date of the Event: 2019-12-07T21:00:00
+------------EVENT INFO-------------
+12
+Name of the Venue: Auditorio Nacional
+Venue Location: Ciudad De México
+Date of the Event: 2019-12-13T20:30:00
+----------------SONG INFO----------
+0
+artist(s): Shakira
+song name: Chantaje (feat. Maluma)
+preview song: https://p.scdn.co/mp3-preview/ed23bf0d09f3589f4b0de7663f91e05e1eb95f6c?cid=8fff05141da041d99b899b852a544fc5
+album: El Dorado
+----------------SONG INFO----------
+1
+artist(s): Shakira
+song name: Chantaje (feat. Maluma) - Versión Salsa
+preview song: https://p.scdn.co/mp3-preview/26a5c31d594a94f921c067924c941092a80ad581?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje (feat. Maluma) [Versión Salsa]
+----------------SONG INFO----------
+2
+artist(s): Shakira
+song name: Chantaje (feat. Maluma) - John-Blake Remix
+preview song: https://p.scdn.co/mp3-preview/83d704905ad5db557dbc2e823d0cca6185e93f27?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje (feat. Maluma) [John-Blake Remix]
+----------------SONG INFO----------
+3
+artist(s): Mechi Pieretti
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/026a38241d91b6977372551e5e9fd8ba87e65041?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+4
+artist(s): Chantaje
+song name: El Burrito Pelao
+preview song: https://p.scdn.co/mp3-preview/fdb86ac8d9a8365cf6071f03b6630fa68efbccb6?cid=8fff05141da041d99b899b852a544fc5
+album: Huapangos Al Estilo San Luis
+----------------SONG INFO----------
+5
+artist(s): Raya Real
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/cfafcd22b9c368738784a9cbe2b7980675a055ac?cid=8fff05141da041d99b899b852a544fc5
+album: Síntesis
+----------------SONG INFO----------
+6
+artist(s): Dj Johan
+song name: Felices Los 4 - Chantaje - Desde Esa Noche - Vente Pa Aca - Sin Contrato - Megamix Maluma 2017
+preview song: https://p.scdn.co/mp3-preview/d0f5385005459b4b7734234270e1e113b32fa470?cid=8fff05141da041d99b899b852a544fc5
+album: Megamix Reggaeton 2017 (Vol. 3)
+----------------SONG INFO----------
+7
+artist(s): Carlos Zaur
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/6e7dd0876b3e8054f0e1371f43e5bfd0583aa658?cid=8fff05141da041d99b899b852a544fc5
+album: Origen
+----------------SONG INFO----------
+8
+artist(s): Shakira
+song name: Chantaje (feat. Maluma)
+preview song: https://p.scdn.co/mp3-preview/a1c8dddb42a1e65e0fdabcd19729651b4fe1b324?cid=8fff05141da041d99b899b852a544fc5
+album: Verano Hits
+----------------SONG INFO----------
+9
+artist(s): Dj Johan
+song name: Despacito - Hula Hoop - Solita Pa Mi - Me Rehuso - Traicionera - Safari - Alguien Robo - Sigo Extrañanadote - Vacaciones - Ella quiere Hmm - Tumba La Casa - Party Animal - Vente Pa Aca - Chantaje - SUBEME LA RADIO - Escapate Conmigo - Felices Los 4 - Reggaeton Megamix
+preview song: https://p.scdn.co/mp3-preview/62785aee96a025716d2fc9364647d57243401190?cid=8fff05141da041d99b899b852a544fc5
+album: Megamix Reggaeton 2017 (Vol. 3)
+----------------SONG INFO----------
+10
+artist(s): Ledes Diaz
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/c2dc6d0398375edb71f9db9d2ea1b019dee19705?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+11
+artist(s): Twinkle Twinkle Little Rock Star
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/ccf4359cd57dd7eff8c11149f98536ac2b0d57bb?cid=8fff05141da041d99b899b852a544fc5
+album: ¡Viva Latino! Versiones de canciones de cuna de éxitos Latinos
+----------------SONG INFO----------
+12
+artist(s): Marcos da costa
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/3c195440adcf2cee297afd6b67095179e097081a?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+13
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latin Pop Dance Party 2018
+----------------SONG INFO----------
+14
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latin Party Hits - The Best Latino & Salsa Music Ever! (Reggaeton, Merengue, Latin Dance, Kuduro, Cuban, Fitness & Workout)
+----------------SONG INFO----------
+15
+artist(s): Los Labradores Del Naranjo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/f81e47a5d8fa127b49cb50051f7f32a05416ccb4?cid=8fff05141da041d99b899b852a544fc5
+album: Pa' La Plebe
+----------------SONG INFO----------
+16
+artist(s): Worfi
+song name: Chantaje - 128 Bpm Extended mix
+preview song: https://p.scdn.co/mp3-preview/e3bc39e1ea0242463920b30831dd5c53a0ebe0e2?cid=8fff05141da041d99b899b852a544fc5
+album: Top 40 Songs 2018 Workout, Running , Fitness All Hits Remixes
+----------------SONG INFO----------
+17
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latino Hits 2018 - The Very Best Latin & Reggaetón Music Ever! (Urbano, Salsa, Bachata, Merengue, Latin Dance, Kuduro, Fitness & Workout)
+----------------SONG INFO----------
+18
+artist(s): Jonatan Clay
+song name: Puro Maquillaje (Chantaje) [feat. Peppa Pig]
+preview song: https://p.scdn.co/mp3-preview/6cfcc8276c496a8b82290030603529ebb6a37b74?cid=8fff05141da041d99b899b852a544fc5
+album: Puro Maquillaje (Chantaje) [feat. Peppa Pig]
+----------------SONG INFO----------
+19
+artist(s): DJ K-More
+song name: Shakira & Maluma - Chantaje
+preview song: https://p.scdn.co/mp3-preview/515dfdbf2221f7aebb127a8bcafb4aa7c5ebe3ef?cid=8fff05141da041d99b899b852a544fc5
+album: DJ K-MORE THE FRESH MIX 2017
+------------MOVIE  INFO-------------
+Title: It
+Release Year: 2017
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+------------MOVIE  INFO-------------
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+------------MOVIE  INFO-------------
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+------------MOVIE  INFO-------------
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+------------MOVIE  INFO-------------
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+------------MOVIE  INFO-------------
+Title: John Wick: Chapter 2
+Release Year: 2017
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Hong Kong
+Language: English, Italian, Russian
+Plot: After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.
+Actors: Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose
+------------MOVIE  INFO-------------
+Title: It
+Release Year: 2017
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+------------MOVIE  INFO-------------
+Title: It
+Release Year: 2017
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+------------MOVIE  INFO-------------
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+------------MOVIE  INFO-------------
+Title: It
+Release Year: 2017
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+----------------SONG INFO----------
+0
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8fff05141da041d99b899b852a544fc5
+album: The Hits--Chapter One
+----------------SONG INFO----------
+1
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8fff05141da041d99b899b852a544fc5
+album: Millennium
+----------------SONG INFO----------
+2
+artist(s): Mick Jensen
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+----------------SONG INFO----------
+3
+artist(s): Anthem Lights
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8fff05141da041d99b899b852a544fc5
+album: Covers Part IV
+----------------SONG INFO----------
+4
+artist(s): Backstreet Boys
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way (Reimagined)
+----------------SONG INFO----------
+5
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8fff05141da041d99b899b852a544fc5
+album: Poodle Hat
+----------------SONG INFO----------
+6
+artist(s): Dynamite Boy
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+----------------SONG INFO----------
+7
+artist(s): Jess and Gabriel
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8fff05141da041d99b899b852a544fc5
+album: Under the Covers, Vol. 3
+----------------SONG INFO----------
+8
+artist(s): Tyler and Mark
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8fff05141da041d99b899b852a544fc5
+album: Beautiful Dreams
+----------------SONG INFO----------
+9
+artist(s): Nineties Legends
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=8fff05141da041d99b899b852a544fc5
+album: Musicbox
+----------------SONG INFO----------
+10
+artist(s): Steel Panther
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+----------------SONG INFO----------
+11
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8fff05141da041d99b899b852a544fc5
+album: 90 Sweet 90s Hits!
+----------------SONG INFO----------
+12
+artist(s): Glee Cast
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8fff05141da041d99b899b852a544fc5
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------SONG INFO----------
+13
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8fff05141da041d99b899b852a544fc5
+album: NKOTBSB
+----------------SONG INFO----------
+14
+artist(s): Scary Pockets
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8fff05141da041d99b899b852a544fc5
+album: Nu Funk
+----------------SONG INFO----------
+15
+artist(s): Boyce Avenue
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8fff05141da041d99b899b852a544fc5
+album: Cover Sessions, Vol. 2
+----------------SONG INFO----------
+16
+artist(s): Scott Bradlee's Postmodern Jukebox
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8fff05141da041d99b899b852a544fc5
+album: Selfies on Kodachrome
+----------------SONG INFO----------
+17
+artist(s): CaryLamb
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=8fff05141da041d99b899b852a544fc5
+album: Boulevard You
+----------------SONG INFO----------
+18
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8fff05141da041d99b899b852a544fc5
+album: The Essential "Weird Al" Yankovic
+----------------SONG INFO----------
+19
+artist(s): Yshop
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+------------EVENT INFO-------------
+0
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-09-29T19:30:00
+------------EVENT INFO-------------
+1
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+------------EVENT INFO-------------
+2
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-04T20:00:00
+------------EVENT INFO-------------
+3
+Name of the Venue: CAA Centre (Formerly Powerade Centre)
+Venue Location: Brampton
+Date of the Event: 2019-10-06T19:00:00
+------------EVENT INFO-------------
+4
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-10-10T20:00:00
+------------EVENT INFO-------------
+5
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-11T20:00:00
+------------EVENT INFO-------------
+6
+Name of the Venue: EagleBank Arena
+Venue Location: Fairfax
+Date of the Event: 2019-10-13T19:00:00
+------------EVENT INFO-------------
+7
+Name of the Venue: Allstate Arena
+Venue Location: Rosemont
+Date of the Event: 2019-10-18T20:00:00
+------------EVENT INFO-------------
+8
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-10-20T19:30:00
+------------EVENT INFO-------------
+9
+Name of the Venue: Coliseo de Puerto Rico
+Venue Location: San Juan
+Date of the Event: 2019-11-09T20:30:00
+------------EVENT INFO-------------
+10
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-12-05T21:00:00
+------------EVENT INFO-------------
+11
+Name of the Venue: Auditorio Telmex
+Venue Location: Zapopan
+Date of the Event: 2019-12-07T21:00:00
+------------EVENT INFO-------------
+12
+Name of the Venue: Auditorio Nacional
+Venue Location: Ciudad De México
+Date of the Event: 2019-12-13T20:30:00
+----------------SONG INFO----------
+0
+artist(s): Shakira
+song name: Chantaje (feat. Maluma)
+preview song: https://p.scdn.co/mp3-preview/ed23bf0d09f3589f4b0de7663f91e05e1eb95f6c?cid=8fff05141da041d99b899b852a544fc5
+album: El Dorado
+----------------SONG INFO----------
+1
+artist(s): Shakira
+song name: Chantaje (feat. Maluma) - Versión Salsa
+preview song: https://p.scdn.co/mp3-preview/26a5c31d594a94f921c067924c941092a80ad581?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje (feat. Maluma) [Versión Salsa]
+----------------SONG INFO----------
+2
+artist(s): Shakira
+song name: Chantaje (feat. Maluma) - John-Blake Remix
+preview song: https://p.scdn.co/mp3-preview/83d704905ad5db557dbc2e823d0cca6185e93f27?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje (feat. Maluma) [John-Blake Remix]
+----------------SONG INFO----------
+3
+artist(s): Mechi Pieretti
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/026a38241d91b6977372551e5e9fd8ba87e65041?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+4
+artist(s): Chantaje
+song name: El Burrito Pelao
+preview song: https://p.scdn.co/mp3-preview/fdb86ac8d9a8365cf6071f03b6630fa68efbccb6?cid=8fff05141da041d99b899b852a544fc5
+album: Huapangos Al Estilo San Luis
+----------------SONG INFO----------
+5
+artist(s): Raya Real
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/cfafcd22b9c368738784a9cbe2b7980675a055ac?cid=8fff05141da041d99b899b852a544fc5
+album: Síntesis
+----------------SONG INFO----------
+6
+artist(s): Dj Johan
+song name: Felices Los 4 - Chantaje - Desde Esa Noche - Vente Pa Aca - Sin Contrato - Megamix Maluma 2017
+preview song: https://p.scdn.co/mp3-preview/d0f5385005459b4b7734234270e1e113b32fa470?cid=8fff05141da041d99b899b852a544fc5
+album: Megamix Reggaeton 2017 (Vol. 3)
+----------------SONG INFO----------
+7
+artist(s): Carlos Zaur
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/6e7dd0876b3e8054f0e1371f43e5bfd0583aa658?cid=8fff05141da041d99b899b852a544fc5
+album: Origen
+----------------SONG INFO----------
+8
+artist(s): Shakira
+song name: Chantaje (feat. Maluma)
+preview song: https://p.scdn.co/mp3-preview/a1c8dddb42a1e65e0fdabcd19729651b4fe1b324?cid=8fff05141da041d99b899b852a544fc5
+album: Verano Hits
+----------------SONG INFO----------
+9
+artist(s): Dj Johan
+song name: Despacito - Hula Hoop - Solita Pa Mi - Me Rehuso - Traicionera - Safari - Alguien Robo - Sigo Extrañanadote - Vacaciones - Ella quiere Hmm - Tumba La Casa - Party Animal - Vente Pa Aca - Chantaje - SUBEME LA RADIO - Escapate Conmigo - Felices Los 4 - Reggaeton Megamix
+preview song: https://p.scdn.co/mp3-preview/62785aee96a025716d2fc9364647d57243401190?cid=8fff05141da041d99b899b852a544fc5
+album: Megamix Reggaeton 2017 (Vol. 3)
+----------------SONG INFO----------
+10
+artist(s): Ledes Diaz
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/c2dc6d0398375edb71f9db9d2ea1b019dee19705?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+11
+artist(s): Twinkle Twinkle Little Rock Star
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/ccf4359cd57dd7eff8c11149f98536ac2b0d57bb?cid=8fff05141da041d99b899b852a544fc5
+album: ¡Viva Latino! Versiones de canciones de cuna de éxitos Latinos
+----------------SONG INFO----------
+12
+artist(s): Marcos da costa
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/3c195440adcf2cee297afd6b67095179e097081a?cid=8fff05141da041d99b899b852a544fc5
+album: Chantaje
+----------------SONG INFO----------
+13
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latin Pop Dance Party 2018
+----------------SONG INFO----------
+14
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latin Party Hits - The Best Latino & Salsa Music Ever! (Reggaeton, Merengue, Latin Dance, Kuduro, Cuban, Fitness & Workout)
+----------------SONG INFO----------
+15
+artist(s): Los Labradores Del Naranjo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/f81e47a5d8fa127b49cb50051f7f32a05416ccb4?cid=8fff05141da041d99b899b852a544fc5
+album: Pa' La Plebe
+----------------SONG INFO----------
+16
+artist(s): Worfi
+song name: Chantaje - 128 Bpm Extended mix
+preview song: https://p.scdn.co/mp3-preview/e3bc39e1ea0242463920b30831dd5c53a0ebe0e2?cid=8fff05141da041d99b899b852a544fc5
+album: Top 40 Songs 2018 Workout, Running , Fitness All Hits Remixes
+----------------SONG INFO----------
+17
+artist(s): Grupo Super Bailongo
+song name: Chantaje
+preview song: https://p.scdn.co/mp3-preview/a5c12ff11c4bc565f216e8254e4bc6b11a425cbd?cid=8fff05141da041d99b899b852a544fc5
+album: Latino Hits 2018 - The Very Best Latin & Reggaetón Music Ever! (Urbano, Salsa, Bachata, Merengue, Latin Dance, Kuduro, Fitness & Workout)
+----------------SONG INFO----------
+18
+artist(s): Jonatan Clay
+song name: Puro Maquillaje (Chantaje) [feat. Peppa Pig]
+preview song: https://p.scdn.co/mp3-preview/6cfcc8276c496a8b82290030603529ebb6a37b74?cid=8fff05141da041d99b899b852a544fc5
+album: Puro Maquillaje (Chantaje) [feat. Peppa Pig]
+----------------SONG INFO----------
+19
+artist(s): DJ K-More
+song name: Shakira & Maluma - Chantaje
+preview song: https://p.scdn.co/mp3-preview/515dfdbf2221f7aebb127a8bcafb4aa7c5ebe3ef?cid=8fff05141da041d99b899b852a544fc5
+album: DJ K-MORE THE FRESH MIX 2017
+------------MOVIE  INFO-------------
+Title: It
+Release Year: 2017
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: undefined
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+----------------SONG INFO----------
+0
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8fff05141da041d99b899b852a544fc5
+album: The Hits--Chapter One
+----------------SONG INFO----------
+1
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8fff05141da041d99b899b852a544fc5
+album: Millennium
+----------------SONG INFO----------
+2
+artist(s): Mick Jensen
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
+----------------SONG INFO----------
+3
+artist(s): Anthem Lights
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8fff05141da041d99b899b852a544fc5
+album: Covers Part IV
+----------------SONG INFO----------
+4
+artist(s): Backstreet Boys
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way (Reimagined)
+----------------SONG INFO----------
+5
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8fff05141da041d99b899b852a544fc5
+album: Poodle Hat
+----------------SONG INFO----------
+6
+artist(s): Dynamite Boy
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+----------------SONG INFO----------
+7
+artist(s): Jess and Gabriel
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8fff05141da041d99b899b852a544fc5
+album: Under the Covers, Vol. 3
+----------------SONG INFO----------
+8
+artist(s): Tyler and Mark
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8fff05141da041d99b899b852a544fc5
+album: Beautiful Dreams
+----------------SONG INFO----------
+9
+artist(s): Nineties Legends
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=8fff05141da041d99b899b852a544fc5
+album: Musicbox
+----------------SONG INFO----------
+10
+artist(s): Steel Panther
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+----------------SONG INFO----------
+11
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8fff05141da041d99b899b852a544fc5
+album: 90 Sweet 90s Hits!
+----------------SONG INFO----------
+12
+artist(s): Glee Cast
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8fff05141da041d99b899b852a544fc5
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------SONG INFO----------
+13
+artist(s): Backstreet Boys
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8fff05141da041d99b899b852a544fc5
+album: NKOTBSB
+----------------SONG INFO----------
+14
+artist(s): Scary Pockets
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8fff05141da041d99b899b852a544fc5
+album: Nu Funk
+----------------SONG INFO----------
+15
+artist(s): Boyce Avenue
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8fff05141da041d99b899b852a544fc5
+album: Cover Sessions, Vol. 2
+----------------SONG INFO----------
+16
+artist(s): Scott Bradlee's Postmodern Jukebox
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8fff05141da041d99b899b852a544fc5
+album: Selfies on Kodachrome
+----------------SONG INFO----------
+17
+artist(s): CaryLamb
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=8fff05141da041d99b899b852a544fc5
+album: Boulevard You
+----------------SONG INFO----------
+18
+artist(s): "Weird Al" Yankovic
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8fff05141da041d99b899b852a544fc5
+album: The Essential "Weird Al" Yankovic
+----------------SONG INFO----------
+19
+artist(s): Yshop
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8fff05141da041d99b899b852a544fc5
+album: I Want It That Way
